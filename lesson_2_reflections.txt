@@ -34,3 +34,5 @@ in the diagram the way we do?
 
 	The result is a new branch. Because in the end, both commits become
 	one commit. And that commit will be a branch.
+
+Modificación al 2
