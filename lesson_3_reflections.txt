@@ -10,3 +10,6 @@
 
 4) What is the benefit of having a copy of the last known state of the remote stored locally?
    That you can continue with your local branch and compare it with the remote. When being offline, this is, aside of being a benefit, an advantage.
+
+5) How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+   I would do it by using the mail but would be quite difficult. Definitely with github, collaboration become organized but the hard part is to know how to use it.
